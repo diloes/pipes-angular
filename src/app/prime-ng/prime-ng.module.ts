@@ -8,5 +8,5 @@ export class PrimeNgModule {}
 
 /**
  * NOTAS:
- * - En este archivo vamos a exportar los modulos de PrimeNg
+ * - En este archivo vamos a importar y exportar los modulos de PrimeNg
  */

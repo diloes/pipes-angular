@@ -9,3 +9,9 @@ import { PrimeNgModule } from '../prime-ng/prime-ng.module';
   exports: [MenuComponent],
 })
 export class SharedModule {}
+
+/**
+ * NOTAS:
+ * - Aquí importamos el nuestro PrimeNgModule para utilizar los elementos que exportamos de este (por ejemplo el menuBar)
+ * en toda la carpeta shared.
+ */
